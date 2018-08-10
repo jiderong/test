@@ -1,0 +1,16 @@
+{
+    "name": "jiderong/test",
+    "description": "a test composer project",
+    "type": "project",
+    "require": {
+        "phpmd/phpmd": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jiderong",
+            "email": "835745929@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
